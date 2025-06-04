@@ -1,7 +1,7 @@
 @font-face {
-font-family: "Alfares";
+font-family: "arguedemo";
 font-style: normal;
-src: url(Alfares.ttf) format("ttf");
+src: url(arguedemo.ttf) format("ttf");
 font-display: auto;
 }
 
